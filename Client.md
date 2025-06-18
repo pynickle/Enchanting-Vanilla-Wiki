@@ -31,3 +31,6 @@
 
 ### **10.** *Chat Up*  (1.21.1+)
 * When you have armor value, the chat bar will move up ten pixels to avoid overlapping with the armor value display.
+
+### **11.** *Book Save Confirmation*  (1.21.1, 1.21.6+)
+* When you make changes to the content of a book and close it without saving, a prompt will pop up reminding you to save.
