@@ -1,12 +1,12 @@
-### **1.** *Slime Chunk Detecting*
+### **1.** *Slime Chunk Detecting*  (1.21.1/1.21.5+)
 * You can right-click a frog with a bucket to get a frog bucket.
 * When you come to the Slime chunk with a frog bucket in your inventory, the frog bucket will be animated.
 
-### **2.** *Compress Slime Block*
+### **2.** *Compress Slime Block*  (1.21.1/1.21.5+)
 * Now you can make it compress into a compressed Slime block by placing an anvil on top of two consecutive slime blocks above and below.
 * It's more sticky, and you can bounce higher and higher on it
 
-### **3.** *Sculk Compass(Biome Finder)*
+### **3.** *Sculk Compass(Biome Finder)*  (1.21.1/1.21.5+)
 
 #### Material Acquisition
 * You have a chance to find a damaged sculk compass in an Ancient City chest, use Echo Shards and Amethyst to repair it.
