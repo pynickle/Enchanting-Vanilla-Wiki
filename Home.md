@@ -23,6 +23,5 @@ This mod is actively being updated and more features will be added in the future
 ## Version Support
 
 * **1.21.1 Neoforge/Fabric: 1.1.2 (Synced With 1.21.5)**
-* **1.21.4 Neoforge/Fabric: unplanned**
 * **1.21.5 Neoforge/Fabric: 2.1.0 (Active Updates)**
 
