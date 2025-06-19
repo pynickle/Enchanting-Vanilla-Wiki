@@ -34,3 +34,6 @@
 
 ### **11.** *Book Save Confirmation*  (1.21.1, 1.21.6+)
 * When you make changes to the content of a book and close it without saving, a prompt will pop up reminding you to save.
+
+### **12.** *Book Scroll*  (1.21.6+)
+* Now you can use the mouse wheel to turn the pages of the book.
