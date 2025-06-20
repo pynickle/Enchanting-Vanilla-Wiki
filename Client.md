@@ -37,3 +37,6 @@
 
 ### **12.** *Book Scroll*  (1.21.6+)
 * Now you can use the mouse wheel to turn the pages of the book.
+
+### **13.** *Music Pause*  (1.21.6+)
+* Now, when the game is paused, the music will also pause, just like in versions 1.21.5 and below.
