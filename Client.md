@@ -40,3 +40,6 @@
 
 ### **13.** *Music Pause*  (1.21.6+)
 * Now, when the game is paused, the music will also pause, just like in versions 1.21.5 and below.
+
+### **14.** *Display Remaining Sales*  (1.21.6+)
+* Display the remaining number of sales available under each button arrow on the trading screen.
