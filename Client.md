@@ -43,3 +43,6 @@
 
 ### **14.** *Display Remaining Sales*  (1.21.6+)
 * Display the remaining number of sales available under each button arrow on the trading screen.
+
+### **15.** *Fast Trading*  (1.21.6+)
+* Now you can trade all the items in your backpack with villagers with a single click.
