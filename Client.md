@@ -46,3 +46,6 @@
 
 ### **15.** *Fast Trading*  (1.21.6+)
 * Now you can trade all the items in your backpack with villagers with a single click.
+
+### **16.** *No Experimental Warning*  (1.21.6+)
+* The warning about creating experimental worlds and entering experimental worlds will no longer appear.
