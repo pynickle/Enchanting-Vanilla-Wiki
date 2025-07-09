@@ -111,3 +111,6 @@
 
 ### **34.** *Forced Fuels*  (1.21.1+)
 * Items now have a tag called “forced_fuels” that forces them into the furnace's fuel slot even if they have a recipe for smelting.
+
+### **35.** *Visible Trade*  (1.21.6+)
+* Now all trades are displayed at the beginning, without having to wait until after the upgrade.
